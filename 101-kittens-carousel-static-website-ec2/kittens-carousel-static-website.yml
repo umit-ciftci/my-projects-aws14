@@ -9,7 +9,7 @@ Description: |
   connections on port 80 and ssh port 22 from 
   anywhere. Kittens Carousel Static Website 
   is downloaded from my Public Github repository,
-  then deployed on Apache Web Server.
+  then deployed on Apache Web Server...
 
 Resources:
   WebServerSecurityGroup:
