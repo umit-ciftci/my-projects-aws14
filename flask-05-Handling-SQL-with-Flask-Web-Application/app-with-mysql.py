@@ -84,7 +84,7 @@ def insert_email(name, email):
     return response
 
 # Write a function named `emails` which finds email addresses by keyword using `GET` and `POST` methods,
-# using template files named `emails.html` given under `templates` folder
+# using template files named `emails.html` given under `templates` folder.
 # and assign to the static route of ('/')
 @app.route('/', methods=['GET', 'POST'])
 def emails():
