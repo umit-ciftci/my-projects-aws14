@@ -16,7 +16,7 @@ def home():
 # and assign to the static route of ('about')
 @app.route('/about')
 def about():
-    return '<h1>This is my about pagee </h1>'
+    return '<h1>This is my about page </h1>'
 
 
 # Create a function named error which returns a formatted string '<h1>Either you encountered an error or you are not authorized.</h1>' 
