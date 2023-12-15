@@ -36,7 +36,7 @@ VALUES
     ("Serafettin", "serafettin@bmw.com"),
     ("Murat", "murat@mercedes.com"),
 	("Fatih", "fatih@porche.com"),
-    ("Zeynep", "zeynepp@tesla.com"),
+    ("Zeynep", "zeyneppp@tesla.com"),
     ("Sekure", "sekure@tesla.com"),
     ("Sümeyye", "sümeyye@samsung.com");
 """
