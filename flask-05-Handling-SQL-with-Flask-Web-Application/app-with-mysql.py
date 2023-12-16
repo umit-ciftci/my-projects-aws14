@@ -38,7 +38,7 @@ VALUES
 	("Fatih", "fatih@porche.com"),
     ("Zeynep", "zeynep@tesla.com"),
     ("Sekure", "sekure@tesla.com"),
-    ("Sümeyye", "sümeyyyyyYye@samsung.com");
+    ("Sümeyye", "sümeyyyyyyyyYye@samsung.com");
 """
 cursor.execute(drop_table)
 cursor.execute(users_table)
