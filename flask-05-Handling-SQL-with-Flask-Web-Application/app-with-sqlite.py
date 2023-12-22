@@ -17,7 +17,7 @@ with app.app_context():
     INSERT INTO users
     VALUES
         ("Sukru", "sukru@amazon.com"),
-        ("Mucahit", "mucahit@google.com"),
+        ("Mucahit", "mucahitt@google.com"),
         ("Serafettin", "serafettin@bmw.com"),
         ("Murat", "murat@mercedes.com"),
 	    ("Fatih", "fatih@porche.com"),
