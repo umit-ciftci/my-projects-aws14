@@ -23,7 +23,7 @@ with app.app_context():
 	    ("Fatih", "fatih@porche.com"),
         ("Zeynep", "zeynep@tesla.com"),
         ("Sekure", "sekure@tesla.com"),
-        ("Sümeyye", "sümeyyyyyyyyyye@samsung.com");
+        ("Sümeyye", "sümeyyyyyyyyyyyye@samsung.com");
         """)
     db.session.execute(drop_table)
     db.session.execute(users_table)
