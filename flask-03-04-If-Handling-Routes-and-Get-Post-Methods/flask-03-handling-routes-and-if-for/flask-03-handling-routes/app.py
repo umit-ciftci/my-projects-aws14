@@ -60,7 +60,7 @@ def admin():
 # and assign to the route of ('/greet-admin')
 @app.route('/greet-admin')
 def greet_admin():
-    return redirect(url_for('greet', name='Master Admin!!!!!!1!!!!'))
+    return redirect(url_for('greet', name='Master Admin!!!'))
 
 
 
